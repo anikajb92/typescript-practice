@@ -1,3 +1,5 @@
 
-let count = 5;
-count = 'a';
+let a; //any
+a = 5;
+a = true;
+a = 'a'
